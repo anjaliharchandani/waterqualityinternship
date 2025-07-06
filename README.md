@@ -36,6 +36,8 @@ Predict whether water is safe to drink based on features such as:
 
 ## ✅ Outcome
 Achieved an accuracy of **XX%** using [Best Model Name].
+## 🌐 Deployment Link
+[Click here to view the Streamlit app](https://waterqualityinternship-j2ozcbqkrmvpvo8d3wtm2k.streamlit.app)
 
 ## 👩‍💻 Developed by
 Anjali Harchandani  
